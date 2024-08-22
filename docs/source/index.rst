@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Ku88 - ku88a.net - sòng bạc trực tuyến danh tiếng của tập đoàn KU Bet
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Ku88 <https://ku88a.net/>`_ là sòng bạc trực tuyến danh tiếng của tập đoàn KU Bet. Thành lập từ năm 2005, dưới sự cấp phép và giám sát của hiệp hội IAGR. Nhà cái Ku 88 phân phối sản phẩm cá cược như live casino, cá cược thể thao và cổng trò chơi với hàng loạt game đổi thưởng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Đăng ký và tải app Ku88 là cược thủ đã có thể nhận 20.000.000 vnđ nạp đầu, bên cạnh đó là tỷ lệ hoàn trả tới 1.5% đã giúp vị thế của KU trở thành sòng bạc online hàng đầu thị trường Việt Sự uy tín khẳng định bằng dịch vụ chất lượng. Quá trình nạp rút nhanh chóng, đội ngũ CSKH hỗ trợ 24/7. Chương trình ưu đãi dẫn đầu thị trường.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 146a Hai Mươi Sáu Tháng Ba, Bình Hưng Hoà, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0357878110. 
 
-.. toctree::
+Email: info@ku88a.net. 
 
-   usage
-   api
+Website: https://ku88a.net/
+
+#ku88 #dangkyku88 #linkku88 #appku88 #kucasino #kubet
